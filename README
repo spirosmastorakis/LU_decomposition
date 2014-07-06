@@ -1,0 +1,14 @@
+README  
+
+Overview
+============
+
+A parallel implementation of LU decomposition 
+(http://en.wikipedia.org/wiki/LU_decomposition) using MPI and OpenMP.
+
+Misc 
+============  
+
+For any bugs or comments/contributions, please contact 
+Spyridon (Spiros) Mastorakis <spiros[dot]mastorakis[at]gmail[dot]com> 
+or Panayiotis Danassis <panos_dan[at]hotmail[dot]com>.
